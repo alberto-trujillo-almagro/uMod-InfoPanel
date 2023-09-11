@@ -197,7 +197,7 @@ namespace Oxide.Plugins
                                 Width = 0.2f,
                                 Height = 0.8f,
                                 Margin = "0 0.01 0.1 0.01",
-                                Url = "http://i.imgur.com/HhL5TvU.png",
+                                Url = "https://i.imgur.com/XgJg7ZC.png",
                             },
                             Text = new PanelTextConfig
                             {
@@ -234,7 +234,7 @@ namespace Oxide.Plugins
                                 Width = 0.2f,
                                 Height = 0.8f,
                                 Margin = "0 0.01 0.1 0.01",
-                                Url = "http://i.imgur.com/dwzul4T.png",
+                                Url = "https://i.imgur.com/cdOsBa8.png",
                             },
                             Text = new PanelTextConfig
                             {
@@ -270,7 +270,7 @@ namespace Oxide.Plugins
                                 Width = 0.13f,
                                 Height = 0.8f,
                                 Margin = "0 0.01 0.1 0.01",
-                                Url = "http://i.imgur.com/Kr1pQ5b.png",
+                                Url = "https://i.imgur.com/aBHSVFI.png",
                             },
                             Text = new PanelTextConfig
                             {
@@ -307,7 +307,7 @@ namespace Oxide.Plugins
                                 Width = 0.188f,
                                 Height = 0.8f,
                                 Margin = "0 0.01 0.1 0.03",
-                                Url = "http://i.imgur.com/dG5nOOJ.png",
+                                Url = "https://i.imgur.com/7brpZTi.png",
                             },
                             Text = new PanelTextConfig
                             {
@@ -345,7 +345,7 @@ namespace Oxide.Plugins
                                 Width = 0.35f,
                                 Height = 0.8f,
                                 Margin = "0 0.05 0.1 0.05",
-                                Url = "http://i.imgur.com/n9EYIWi.png",
+                                Url = "https://i.imgur.com/ogL8T6p.png",
                             },
                             Text = new PanelTextConfig
                             {
@@ -377,7 +377,7 @@ namespace Oxide.Plugins
                                 Width = 0.4f,
                                 Height = 0.8f,
                                 Margin = "0 0.05 0.1 0.05",
-                                Url = "http://i.imgur.com/XIIZkqD.png",
+                                Url = "https://i.imgur.com/HZobcwc.png",
                             },
                             Text = new PanelTextConfig
                             {
@@ -409,7 +409,7 @@ namespace Oxide.Plugins
                                 Width = 0.8f,
                                 Height = 0.8f,
                                 Margin = "0 0.1 0.1 0.1",
-                                Url = "http://i.imgur.com/dble6vf.png",
+                                Url = "https://i.imgur.com/WUQNWgj.png",
                             },
                             PanelSettings = new Dictionary<string, object>
                             {
@@ -437,7 +437,7 @@ namespace Oxide.Plugins
                                 Width = 0.75f,
                                 Height = 0.8f,
                                 Margin = "0 0.15 0.1 0.1",
-                                Url = "http://i.imgur.com/hTTyTTx.png",
+                                Url = "https://i.imgur.com/PJBCJAv.png",
                             },
                             PanelSettings = new Dictionary<string, object>
                             {
@@ -465,7 +465,7 @@ namespace Oxide.Plugins
                                 Width = 0.75f,
                                 Height = 0.8f,
                                 Margin = "0 0.15 0.1 0.1",
-                                Url = "https://i.imgur.com/49d8ZcK.png",
+                                Url = "https://i.imgur.com/6ES0vIG.png",
                             },
                             PanelSettings = new Dictionary<string, object>
                             {
@@ -493,7 +493,7 @@ namespace Oxide.Plugins
                                 Width = 0.75f,
                                 Height = 0.8f,
                                 Margin = "0 0.15 0.1 0.1",
-                                Url = "https://i.imgur.com/WQiNxyM.png",
+                                Url = "https://i.imgur.com/twAPVF8.png",
                             },
                             PanelSettings = new Dictionary<string, object>
                             {
@@ -522,7 +522,7 @@ namespace Oxide.Plugins
                                 Width = 0.75f,
                                 Height = 0.8f,
                                 Margin = "0 0.15 0.1 0.1",
-                                Url = "http://i.imgur.com/owVdFsK.png",
+                                Url = "https://i.imgur.com/8PkiBYv.png",
                             },
                             PanelSettings = new Dictionary<string, object>
                             {
@@ -551,7 +551,7 @@ namespace Oxide.Plugins
                                 Width = 0.75f,
                                 Height = 0.8f,
                                 Margin = "0 0.15 0.1 0.1",
-                                Url = "https://i.imgur.com/7mSjIwl.png",
+                                Url = "https://i.imgur.com/61Gdczt.png",
                             },
                             PanelSettings = new Dictionary<string, object>
                             {
