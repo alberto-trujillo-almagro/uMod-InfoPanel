@@ -895,7 +895,7 @@ namespace Oxide.Plugins
                 Airplane.Refresh(storedData, PlayerPanels);
             }
 
-            ActiveHelicopters = UnityEngine.Object.FindObjectsOfType<BaseHelicopter>().ToList();
+            ActiveHelicopters = UnityEngine.Object.FindObjectsOfType<PatrolHelicopter>().ToList();
 
             if (ActiveHelicopters.Count > 0)
             {
@@ -986,9 +986,9 @@ namespace Oxide.Plugins
             }
 
             if (Entity == null) return;
-            if (Entity is BaseHelicopter && Settings.Panels["HelicopterEvent"].Available)
+            if (Entity is PatrolHelicopter && Settings.Panels["HelicopterEvent"].Available)
             {
-                ActiveHelicopters.Add((BaseHelicopter)Entity);
+                ActiveHelicopters.Add((PatrolHelicopter)Entity);
 
                 if (HelicopterTimer == false)
                 {
@@ -1368,7 +1368,7 @@ namespace Oxide.Plugins
         private bool AirplaneTimer = false;
 
         private HelicopterEvent Helicopter;
-        private List<BaseHelicopter> ActiveHelicopters;
+        private List<PatrolHelicopter> ActiveHelicopters;
         private bool HelicopterTimer = false;
 
         private CargoshipEvent Cargoship;
@@ -1381,7 +1381,7 @@ namespace Oxide.Plugins
 
         private Radiation Rad;
 
-        private BaseHelicopter ActiveHelicopter;
+        private PatrolHelicopter ActiveHelicopter;
         private CH47Helicopter ActiveChinook;
         private CargoShip ActiveCargoship;
 
