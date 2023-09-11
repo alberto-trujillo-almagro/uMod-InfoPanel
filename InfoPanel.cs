@@ -522,7 +522,7 @@ namespace Oxide.Plugins
                                 Width = 0.75f,
                                 Height = 0.8f,
                                 Margin = "0 0.15 0.1 0.1",
-                                Url = "https://i.imgur.com/8PkiBYv.png",
+                                Url = "https://i.imgur.com/Z0ar6gu.png",
                             },
                             PanelSettings = new Dictionary<string, object>
                             {
