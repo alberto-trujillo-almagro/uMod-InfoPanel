@@ -18,7 +18,7 @@ using UnityEngine;
 
 namespace Oxide.Plugins
 {
-    [Info("InfoPanel", "Gonzi", "1.0.6")]
+    [Info("InfoPanel", "Gonzi", "1.0.8")]
     [Description("A little panel with useful information.")]
     public class InfoPanel : RustPlugin
     {
