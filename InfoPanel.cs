@@ -270,7 +270,7 @@ namespace Oxide.Plugins
                                 Width = 0.13f,
                                 Height = 0.8f,
                                 Margin = "0 0.01 0.1 0.01",
-                                Url = "https://i.imgur.com/aBHSVFI.png",
+                                Url = "https://i.imgur.com/nUlXLbO.png",
                             },
                             Text = new PanelTextConfig
                             {
